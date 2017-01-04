@@ -1,0 +1,65 @@
+.global-nav {
+	position: relative;
+  background-color: #3cb371;
+  height: 53px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  a {
+	  color: white;
+	  font-weight: bold;
+	  font-size: 16px;
+    cursor: auto;
+		&:hover {
+			color: #283c46;
+		}
+  }
+	.nav-link:first-child {
+		position: absolute;
+		left: 30px;
+		text-decoration: underline;
+	}
+	.nav-link:last-child {
+		position: absolute;
+		right: 20px;
+	}
+  p {
+  	text-align: center;
+  	font-weight: bold;
+  	font-family: 'Lemonada', cursive;
+  	font-size: 13px;
+  	margin-top: 5px;
+  }
+}
+
+.global-nav-logo {
+	margin: 0 auto;
+	height: 85px;
+	width: 125px;
+	display: block;
+	background: url(logo-basecamp.svg);
+	background-size: 100%;
+	transition: all 0.1s ease-in-out;
+	&:hover {
+		transform: scale(1.1, 1.1);
+	}
+}
+
+.button-primary {
+  background-color: #0088c9;
+  color: #fff;
+  border-bottom: 3px solid rgba(0,0,0,0.15);
+  &:hover {
+  	background-color: #0780bb !important;
+  	color: white !important;
+  	text-decoration: none;
+  }
+}
+.button-nav {
+	border-radius: 4px;
+	padding: 10px 12px 6px 12px;
+}
+#nav-padded-top {
+	margin-top: 80px;
+}
