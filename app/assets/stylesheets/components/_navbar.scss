@@ -38,7 +38,7 @@
 	height: 85px;
 	width: 125px;
 	display: block;
-	background: url(logo-basecamp.svg);
+	background: asset_url(logo-basecamp);
 	background-size: 100%;
 	transition: all 0.1s ease-in-out;
 	&:hover {
