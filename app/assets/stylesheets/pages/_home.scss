@@ -1,7 +1,26 @@
-#main-title {
-	margin-top: 100px;
+.title {
 	margin-bottom: 30px;
 	font-size: 30px;
 	font-weight: bold;
 	color: #283C46;
+}
+
+hr {
+  border-top: 1px solid #d9d9d9;
+  display: block;
+  margin: 3em auto;
+  width: 25%;
+}
+
+p {
+	font-family: Raleway;
+	font-size: 17px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+
+@media only screen and (max-width : 450px) {
+	h2.title {
+		margin-top: 0px;
+	}
 }

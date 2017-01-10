@@ -23,3 +23,8 @@
 .bg-dark-blue {
   background: #3b5998;
 }
+
+.background-basecamp {
+	background: $beige asset_url(background-basecamp) center 12rem repeat-y;
+	background-size: 200%, 100rem;
+}

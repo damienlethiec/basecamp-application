@@ -18,11 +18,13 @@
 	.nav-link:first-child {
 		position: absolute;
 		left: 30px;
-		text-decoration: underline;
 	}
 	.nav-link:last-child {
 		position: absolute;
 		right: 20px;
+	}
+	.underlined {
+		text-decoration: underline;
 	}
   p {
   	text-align: center;
@@ -68,4 +70,8 @@
 
 .nav-marged-right {
 	margin-right: 10px;
+}
+
+.nav-marged-bottom {
+	margin-bottom: 70px;
 }
