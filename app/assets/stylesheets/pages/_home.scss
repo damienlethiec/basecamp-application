@@ -13,10 +13,25 @@ hr {
 }
 
 p {
-	font-family: Raleway;
+	font-family: 'Raleway';
 	font-size: 17px;
 	line-height: 1.5;
 	letter-spacing: 1px;
+	max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  padding: 0 5px;
+}
+
+.main-image-home {
+	margin-top: 35px;
+	width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 10% 20%;
+	background-image: asset_url(picture-home);
 }
 
 @media only screen and (max-width : 450px) {
