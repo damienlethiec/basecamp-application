@@ -25,12 +25,13 @@ p {
 }
 
 .main-image-home {
-	margin-top: 35px;
-	width: 100%;
+  margin: 35px auto;
+  width: 90%;
   height: 100%;
+  display: flex;
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: 10% 20%;
+  background-size: 95%;
+  background-position: 120% 10%;
 	background-image: asset_url(picture-home);
 }
 
