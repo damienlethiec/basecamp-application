@@ -1,12 +1,12 @@
 .global-nav {
 	position: relative;
-  background-color: #3cb371;
+  background-color: $green;
   height: 53px;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
-  a {
+  .link-in-nav {
 	  color: white;
 	  font-weight: bold;
 	  font-size: 16px;
@@ -23,16 +23,16 @@
 		position: absolute;
 		right: 20px;
 	}
-	.underlined {
-		text-decoration: underline;
-	}
-  p {
+  .global-nav-tagline {
   	text-align: center;
   	font-weight: bold;
   	font-family: 'Lemonada', cursive;
   	font-size: 13px;
   	margin-top: 5px;
   }
+}
+.underlined {
+	text-decoration: underline;
 }
 
 .global-nav-logo {
@@ -46,17 +46,6 @@
 	&:hover {
 		transform: scale(1.1, 1.1);
 	}
-}
-
-.button-primary {
-  background-color: #0088c9;
-  color: #fff;
-  border-bottom: 3px solid rgba(0,0,0,0.15);
-  &:hover {
-  	background-color: #0780bb !important;
-  	color: white !important;
-  	text-decoration: none;
-  }
 }
 
 .button-nav {

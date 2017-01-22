@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="368px" height="142px" viewBox="0 0 368 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-3">
+            <path d="M323.715161,2.23925595 C336.907552,10.3821856 344.704127,11.4562296 358.481403,23.1503602 C364.379223,28.1549484 369.877701,48.753742 367.383701,60.2163057 C366.436207,64.5734205 363.399706,66.380252 362.005779,70.3245074 C346.54072,114.121129 347.636084,114.791454 313.821102,130.894497 C264.542946,154.363502 213.259607,133.28634 163.488867,133.644355 C124.530482,133.92772 85.5720976,137.139188 46.6203058,135.45271 C42.6899959,135.282082 38.640072,135.112977 34.6306473,134.500543 C24.7158683,132.986217 15.0403174,128.767738 7.9896824,115.147945 C-9.21966886,81.8967606 4.28353106,46.0831049 21.0615183,29.6936498 C60.7281688,-9.04963249 125.58723,0.938215363 165.634385,1.72432419 C173.823708,1.88581167 181.909428,5.82549662 190.098751,6.01135956 C236.462846,7.0716924 262.956883,3.96077335 306.099875,0.248084937 L323.714219,2.23773248 L323.715161,2.23925595 Z" id="Shape" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="#FAF785" x="37" y="40" width="275" height="21"></rect>
+            <rect id="Rectangle-2" fill="#FAF785" x="249" y="19" width="94" height="21"></rect>
+            <text id="Damien-was-amazing-[" font-family="Charter-Roman, Charter" font-size="18" font-weight="normal" fill="#283C46">
+                <tspan x="42" y="34">Damien was amazing […] very young</tspan>
+                <tspan x="42" y="56">in code but with the right mindset and</tspan>
+                <tspan x="42" y="78">that’s what we need</tspan>
+                <tspan x="42" y="100" font-family="Charter-Bold, Charter" font-weight="bold">- Jean-Philippe Boul, student</tspan>
+                <tspan x="42" y="122" font-family="Charter-Bold, Charter" font-weight="bold">at Le Wagon</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

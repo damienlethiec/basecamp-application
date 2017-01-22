@@ -1,0 +1,39 @@
+.comments-right {
+	display: flex;
+	justify-content: flex-end;
+	-ms-transform: rotate(-1deg);
+  -webkit-transform: rotate(-1deg);
+  transform: rotate(-1deg);
+}
+.comments-left {
+	display: flex;
+	justify-content: flex-start;
+	-ms-transform: rotate(1deg);
+  -webkit-transform: rotate(1deg);
+  transform: rotate(1deg);
+}
+#comment1 {
+	height: 100%;
+	width: 60%;
+}
+#comment2 {
+	height: 100%;
+	width: 68%;
+}
+#comment3 {
+	height: 100%;
+	width: 64%;
+}
+#comment4 {
+	height: 100%;
+	width: 54%;
+}
+
+@media screen and (max-width: 1024px) {
+	.comments {
+		justify-content: center;
+		img {
+			width: 100% !important;
+		}
+	}
+}

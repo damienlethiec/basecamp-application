@@ -1,13 +1,13 @@
 <nav class="global-nav nav-marged-bottom">
   <div class="nav-link">
-      <%= link_to "Home", root_path, class: "hidden-xs nav-marged-right underlined" %>
-      <%= link_to "How I work", root_path, class: "underlined" %>
+      <%= link_to "Home", root_path, class: "link-in-nav hidden-xs nav-marged-right underlined" %>
+      <%= link_to "How I work", how_I_work_path, class: "link-in-nav underlined" %>
   </div>
   <div id='nav-marged-top'>
-    <%= link_to "", root_path, class: "global-nav-logo" %>
+    <%= link_to "", root_path, class: "link-in-nav global-nav-logo" %>
     <p class="global-nav-tagline">2017 is the year to work together</p>
   </div>
-  <div class="nav-link">
-    <%= link_to "Play GAME!", root_path, class: "button-nav button-primary" %>
+  <div class="nav-link hidden-xs">
+    <%= link_to "Play the GAME", root_path, class: "link-in-nav button-nav button-primary" %>
   </div>
 </nav>

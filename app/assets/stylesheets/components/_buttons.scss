@@ -1,0 +1,11 @@
+.button-primary {
+  background-color: #0088c9;
+  color: white;
+  font-weight: bold;
+  border-bottom: 3px solid rgba(0,0,0,0.15);
+  &:hover {
+  	background-color: #0780bb !important;
+  	color: white !important;
+  	text-decoration: none;
+  }
+}

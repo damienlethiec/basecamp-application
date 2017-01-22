@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="405px" height="138px" viewBox="0 0 405 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M356.262609,2.17617832 C370.78141,10.0897297 379.361879,11.1335189 394.52437,22.4982374 C401.015177,27.3618513 407.066491,47.3803972 404.321736,58.5200717 C403.278978,62.7544509 399.937177,64.5103858 398.403099,68.3435354 C381.38313,110.906449 382.588625,111.557892 345.373767,127.207329 C291.141014,150.015235 234.70147,129.531795 179.926606,129.879725 C137.05121,130.155108 94.175814,133.276112 51.3076735,131.637141 C46.9821966,131.471319 42.5250792,131.306977 38.112533,130.711796 C27.2008877,129.240127 16.5525233,125.140478 8.79299286,111.904341 C-10.1466464,79.5898096 4.71421218,44.7849892 23.1791166,28.857209 C66.8339901,-8.79471327 138.214207,0.911786762 182.287842,1.67575168 C191.300548,1.83269021 200.199235,5.66139812 209.211941,5.84202549 C260.237643,6.8724898 289.395483,3.84920227 336.876221,0.241096629 L356.261572,2.17469776 L356.262609,2.17617832 Z" id="Shape" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="#FAF785" x="227" y="40" width="166" height="21"></rect>
+            <rect id="Rectangle-2" fill="#FAF785" x="38" y="61" width="332" height="21"></rect>
+            <text id="Thanks-to-his-dedica" font-family="Charter-Roman, Charter" font-size="18" font-weight="normal" fill="#283C46">
+                <tspan x="42" y="34">Thanks to his dedication, his efficiency and</tspan>
+                <tspan x="42" y="56">his innovative mindset, Damien exceeded all</tspan>
+                <tspan x="42" y="78">my expectations and often over-delivered</tspan>
+                <tspan x="42" y="100" font-family="Charter-Bold, Charter" font-weight="bold">- Steffen Maier, Chief Marketing Officer</tspan>
+                <tspan x="42" y="122" font-family="Charter-Bold, Charter" font-weight="bold">at Impraise</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

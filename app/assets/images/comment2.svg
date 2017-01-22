@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="470px" height="138px" viewBox="0 0 470 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M413.440558,2.17617832 C430.289537,10.0897297 440.247119,11.1335189 457.843096,22.4982374 C465.375638,27.3618513 472.39815,47.3803972 469.212879,58.5200717 C468.002765,62.7544509 464.124625,64.5103858 462.344337,68.3435354 C442.592768,110.906449 443.991737,111.557892 400.804125,127.207329 C337.86735,150.015235 272.369607,129.531795 208.803716,129.879725 C159.047083,130.155108 109.290451,133.276112 59.5422384,131.637141 C54.5225491,131.471319 49.3500919,131.306977 44.2293593,130.711796 C31.5664623,129.240127 19.2091011,125.140478 10.2042139,111.904341 C-11.7751206,79.5898096 5.47081413,44.7849892 26.8992218,28.857209 C77.560433,-8.79471327 160.396734,0.911786762 211.543916,1.67575168 C222.003105,1.83269021 232.329976,5.66139812 242.789166,5.84202549 C302.004178,6.8724898 335.841671,3.84920227 390.942775,0.241096629 L413.439356,2.17469776 L413.440558,2.17617832 Z" id="Shape" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="#FAF785" x="158" y="40" width="273" height="21"></rect>
+            <rect id="Rectangle-2" fill="#FAF785" x="39" y="61" width="54" height="21"></rect>
+            <text id="I-assume-we-did-a-gr" font-family="Charter-Roman, Charter" font-size="18" font-weight="normal" fill="#283C46">
+                <tspan x="42" y="34">I assume we did a great work […] but our followers,</tspan>
+                <tspan x="42" y="56">led by Damien as a concious and deeply involved</tspan>
+                <tspan x="42" y="78">leader made an even better and impressive job</tspan>
+                <tspan x="42" y="100" font-family="Charter-Bold, Charter" font-weight="bold">- Clément Castagna, former Vice-President at</tspan>
+                <tspan x="42" y="122" font-family="Charter-Bold, Charter" font-weight="bold">NOISE EMLYON</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

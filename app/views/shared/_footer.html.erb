@@ -1,11 +1,20 @@
 <nav class="global-nav" id="footer">
-  <div class="nav-link">
-      <%= link_to "Home", root_path, class: "hidden-xs nav-marged-right underlined" %>
-      <%= link_to "How I work", root_path, class: "underlined" %>
-  </div>
-  <div class="nav-link">
-    <%= link_to "Play GAME!", root_path, class: "button-nav button-primary" %>
-  </div>
+	<div class="cta-bar__content">
+		<div class="cta-bar__social hidden-xs">	
+			<p><strong>Follow along with me:</strong>
+			<br>
+			<a href="https://dlet.me/" target="_blank">Blog</a>, <a href="https://github.com/damienlethiec/" target="_blank">GitHub</a>, <a href="https://www.linkedin.com/in/damienlethiec" target="_blank">Linkedin</a>, <a href="https://www.facebook.com/damien.lethiec.7" target="_blank">Facebook</a></p>
+		</div>
+		<div class="cta-bar__try">
+			<div class="cta-bar__try-text hidden-xs">
+				<p><strong>Ready to try Damien?</strong>
+				<br>
+				<em>No obligations, no credit card required.</em>
+				</p>
+			</div>
+			<%= link_to "Try Damien for free", how_I_work_path, class: "link-in-footer button-nav button-primary" %>
+		</div>
+	</div>
 </nav>
 
 <script src="/assets/footer.js"></script>

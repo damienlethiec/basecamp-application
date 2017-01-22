@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="432px" height="78px" viewBox="0 0 432 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-2">
+            <path d="M380.013449,1.23001383 C395.50017,5.70289068 404.652671,6.29285853 420.825995,12.7163951 C427.749522,15.4653942 434.204257,26.7802245 431.276519,33.0765623 C430.164243,35.469907 426.599655,36.462392 424.963306,38.6289548 C406.808672,62.6862539 408.094533,63.0544608 368.398685,71.8997944 C310.550415,84.7912196 250.348234,73.2136235 191.921714,73.4102795 C146.187958,73.5659306 100.454202,75.3299763 54.7281851,74.4036012 C50.114343,74.3098758 45.3600845,74.2169873 40.6533685,73.8805801 C29.0142802,73.0487672 17.6560248,70.7315744 9.37919238,63.2502799 C-10.8230895,44.9855446 5.02849299,25.3132548 24.7243911,16.3105964 C71.2895895,-4.97092489 147.428487,0.515357735 194.440365,0.947163994 C204.053918,1.03586838 213.54585,3.19992068 223.159403,3.30201441 C277.586819,3.88445076 308.688515,2.17563606 359.334636,0.136272007 L380.012344,1.229177 L380.013449,1.23001383 Z" id="Shape" fill="#FFFFFF"></path>
+            <rect id="Rectangle-2" fill="#FAF785" x="27" y="20" width="391" height="21"></rect>
+            <text id="Probably-the-best-te" font-family="Charter-Roman, Charter" font-size="18" font-weight="normal" fill="#283C46">
+                <tspan x="31" y="36">Probably the best teacher assistant in the world!</tspan>
+                <tspan x="31" y="58" font-family="Charter-Bold, Charter" font-weight="bold">- Lucien Mollard, student at Le Wagon</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

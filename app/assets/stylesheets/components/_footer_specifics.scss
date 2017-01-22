@@ -6,3 +6,57 @@
   height: 60px;
   background-color: #283c46;
 }
+
+.cta-bar__content {
+	color: white;
+	padding: 0px 15px;
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	p {
+		margin-bottom: 0;
+		font-size: 15px;
+	}
+}
+
+.cta-bar__social {
+	a {
+		color: $light-blue;
+		font-size: 14px;
+		text-decoration: underline;
+		&:hover {
+			color: white;
+		}
+	}
+}
+
+.cta-bar__try {
+	display: flex;
+	justify-content: right;
+	em {
+		font-size: 14px;
+	}
+	.cta-bar__try-text {
+		text-align: right;
+	}
+}
+
+.link-in-footer {
+	padding-top: 10px;
+	margin-left: 5px;
+}
+
+@media screen and (max-width: 1024px) {
+	.cta-bar__try {
+		width: 100%;
+	}
+	.link-in-footer {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#footer {
+		height: 80px;
+	}
+}
