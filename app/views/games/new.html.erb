@@ -1,0 +1,20 @@
+<% content_for :title, "Damien for Basecamp: a small game" %>
+<div class="wrap">
+	<h2 class="title text-center" id="no-margin-top">Let's play a memory game together !</h2>
+	<div class="game"></div>
+	<div class="modal-overlay">
+		<div class="modal text-center">
+			<h2 class="title">You won ! You Rock!</h2>
+			<p>Two choices now :</p>
+			<div class="flex-modal">
+				<button class="button-primary button-nav restart">Play Again?</button>
+				<p class="title marged-auto">OR</p>
+				<%= link_to "Get to know me", how_I_work_path, class:"button-primary button-nav" %>
+			</div>
+			<p>Personnaly, I know what I would do ;)</p>
+		</div>
+	</div>
+  <footer>
+		<p class="disclaimer">All logos are property of their respective owners, No Copyright infringement intended. Game inspired by <a href="http://codepen.io/natewiley/pen/HBrbL">the codepen</a> of Nate Wiley © 2014 Nate Wiley</p>
+	</footer>
+</div>

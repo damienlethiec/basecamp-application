@@ -5,9 +5,28 @@
  * ------------------------------------- */
 
 // Paddings
-.padded {
-  padding-top: 5em;
-  padding-bottom: 5em;
+
+.title {
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #283C46;
+}
+
+#no-margin-top {
+	margin-top: 0px;
+}
+
+p {
+	font-family: 'Raleway';
+	font-size: 17px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+	max-width: 630px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  padding: 0 5px;
 }
 
 // Backgrounds
