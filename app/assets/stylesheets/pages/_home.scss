@@ -16,6 +16,14 @@ hr {
 	background-image: asset_url(picture-home);
 }
 
+.cover-letter {
+  p {
+    font-size: 17px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+  }
+}
+
 .intro {
   margin: -0.75em auto 1.25em auto;
   padding: 0;

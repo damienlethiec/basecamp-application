@@ -1,0 +1,41 @@
+rails_fan:
+  title: Because I am a rails fan...
+  highlighted_text: ...and it is not by default.
+  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  img: rails-doctrine.png
+  link: https://github.com/damienlethiec/
+
+fast_learner:
+  title: Because I learn fast...
+  highlighted_text: ...and I help others learn.
+  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  img: reviews-ta.png
+  link: 
+
+product_oriented:
+  title: Because I understand business and product...
+  highlighted_text: ...not just code.
+  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  img: business.jpg
+  link: https://www.linkedin.com/in/damienlethiec
+
+remote:
+  title: Because I know how to work remotely...
+  highlighted_text: ...and I love it !
+  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  img: kohub.jpg
+  link: 
+
+transparent:
+  title: Because I value transparency a lot...
+  highlighted_text: ...and I love to share.
+  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  img: dlet.png
+  link: https://dlet.me/
+
+fan:
+  title: Because I am will do everything to make it work...
+  highlighted_text: ...and this website is a first proof.
+  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  img: basecamp-parody.png
+  link:

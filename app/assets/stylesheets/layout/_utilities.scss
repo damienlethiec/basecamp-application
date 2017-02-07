@@ -13,34 +13,39 @@
 	color: #283C46;
 }
 
+.bold {
+	font-weight: bold;
+}
+
+.background-text {
+	background-color: $yellow;
+	font-weight: bold;
+}
+
+.fit-in-div {
+	width: 100%;
+	height: 100%;
+}
+
 #no-margin-top {
 	margin-top: 0px;
 }
 
-p {
-	font-family: 'Raleway';
-	font-size: 17px;
-	line-height: 1.5;
-	letter-spacing: 1px;
-	max-width: 630px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 15px;
-  padding: 0 5px;
+.marged-bottom {
+	margin-bottom: 40px;
 }
 
-// Backgrounds
-.bg-black {
-  background: #4a4a4a;
+.marged-top {
+	margin-top: 40px;
 }
-.bg-grey {
-  background: #aeaeae;
-}
-.bg-blue {
-  background: #00a3e1;
-}
-.bg-dark-blue {
-  background: #3b5998;
+
+p {
+	font-family: 'Raleway';
+	max-width: 630px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  font-size: 17px;
+  padding: 0 5px;
 }
 
 .background-basecamp {
