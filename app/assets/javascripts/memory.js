@@ -109,32 +109,32 @@ $(document).ready(function() {
 		var cards = [
 			{
 				name: "dhh",
-				img: "/assets/dhh.jpeg",
+				img: "/../public/assets/dhh.jpeg",
 				id: 1,
 			},
 			{
 				name: "jason",
-				img: "/assets/jason.jpg",
+				img: "/../public/assets/jason.jpg",
 				id: 2
 			},
 			{
 				name: "remote",
-				img: "/assets/remote.png",
+				img: "/../public/assets/remote.png",
 				id: 3
 			},
 			{
 				name: "rails",
-				img: "/assets/ruby-on-rails.png",
+				img: "/../public/assets/ruby-on-rails.png",
 				id: 4
 			}, 
 			{
 				name: "employees",
-				img: "/assets/employees.png",
+				img: "/../public/assets/employees.png",
 				id: 5
 			},
 			{
 				name: "damien",
-				img: "/assets/damien.jpg",
+				img: "/../public/assets/damien.jpg",
 				id: 6
 			}
 		];
