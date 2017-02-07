@@ -98,7 +98,7 @@ $(document).ready(function() {
 					frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 					<div class="front"><img src="'+ v.img +'"\
 					alt="'+ v.name +'" /></div>\
-					<div class="back"><img src="/assets/basecamp-logo.png"\
+					<div class="back"><img src="http://res.cloudinary.com/ind-pendant/image/upload/v1486511382/basecamp-logo_volumg.png"\
 					alt="Codepen" /></div></div>\
 					</div>';
 				});
@@ -109,32 +109,32 @@ $(document).ready(function() {
 		var cards = [
 			{
 				name: "dhh",
-				img: "/../public/assets/dhh.jpeg",
+				img: "http://res.cloudinary.com/ind-pendant/image/upload/v1486511329/dhh_s9v1dy.jpg",
 				id: 1,
 			},
 			{
 				name: "jason",
-				img: "/../public/assets/jason.jpg",
+				img: "http://res.cloudinary.com/ind-pendant/image/upload/v1486511329/jason_mx810k.jpg",
 				id: 2
 			},
 			{
 				name: "remote",
-				img: "/../public/assets/remote.png",
+				img: "http://res.cloudinary.com/ind-pendant/image/upload/v1486511329/remote_josiil.png",
 				id: 3
 			},
 			{
 				name: "rails",
-				img: "/../public/assets/ruby-on-rails.png",
+				img: "http://res.cloudinary.com/ind-pendant/image/upload/v1486511329/ruby-on-rails_mbbhsn.png",
 				id: 4
 			}, 
 			{
 				name: "employees",
-				img: "/../public/assets/employees.png",
+				img: "http://res.cloudinary.com/ind-pendant/image/upload/v1486511329/employees_pqs8fr.png",
 				id: 5
 			},
 			{
 				name: "damien",
-				img: "/../public/assets/damien.jpg",
+				img: "http://res.cloudinary.com/ind-pendant/image/upload/v1486511329/damien_xzrsu4.jpg",
 				id: 6
 			}
 		];
