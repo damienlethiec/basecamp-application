@@ -1,41 +1,41 @@
 rails_fan:
   title: Because I am a rails fan...
   highlighted_text: ...and it is not by default.
-  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  last_part_text: By doing Le Wagon, I learned web development with rails. I felt in love with this framework and its beauty. I am a big fan of the rails doctrine and I am looking forward to improving my skills and discovering the future of rails!
   img: rails-doctrine.png
   link: https://github.com/damienlethiec/
 
 fast_learner:
   title: Because I learn fast...
-  highlighted_text: ...and I help others learn.
-  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  highlighted_text: ...and help others learn.
+  last_part_text: 6 months ago, I had no idea how to write a single line of code. I now work as a freelance web developer and as a bootcamp teacher. I still know nothing but I can see how fast I learn. And by teaching at Le Wagon, I help other learn too. And I think I help them well!
   img: reviews-ta.png
   link: 
 
 product_oriented:
   title: Because I understand business and product...
   highlighted_text: ...not just code.
-  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  last_part_text: Before finding my passion for web development, I was an entrepreneurship student at EMLYON, one of the top business schools in Europe. I had the opportunity to work in lead generation (for a YC company), as a growth hacker, as a startup advisor and to lead an association supporting social entrepreneurship. I know what business means and I am totally product oriented.
   img: business.jpg
   link: https://www.linkedin.com/in/damienlethiec
 
 remote:
   title: Because I know how to work remotely...
-  highlighted_text: ...and I love it !
-  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  highlighted_text: ...and I love it!
+  last_part_text: I have always loved to travel. I lived 6 months in Tanzania, volunteered in Nicaragua and hitchhiked all over France. Past Novembre, I decided to become a digital nomad. I went to Thaïland for 2 months, working for a client in France. I loved it. Since them, I only take remote missions and know how to make it work!
   img: kohub.jpg
   link: 
 
 transparent:
   title: Because I value transparency a lot...
   highlighted_text: ...and I love to share.
-  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  last_part_text: I have always had strong opinions. I love to have long talks with my friends about the meaning of life. This year, I decided I would share my thoughts to a broader audience and began a blog called "dlet.me". I plan to write an article every 2 weeks. I love to share and feel really comfortable in a transparent environment.
   img: dlet.png
   link: https://dlet.me/
 
 fan:
-  title: Because I am will do everything to make it work...
-  highlighted_text: ...and this website is a first proof.
-  last_part_text: psum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores repellat totam explicabo, unde hic, esse. Et incidunt obcaecati, eius, corporis ducimus minus ipsam voluptate? Vitae cupiditate enim fuga nulla!
+  title: Because I will do everything it takes to make it work...
+  highlighted_text: ...and this website is the first proof.
+  last_part_text: I love Basecamp! I read a lot about your company, your culture, and your people and I am a big fan. I know I will grow as a developer and as a person if I join you and I am sure I can bring a lot to the company. I built this website during my evenings and weekends to convince you that I will do what it takes. 
   img: basecamp-parody.png
   link:

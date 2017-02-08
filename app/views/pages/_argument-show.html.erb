@@ -1,5 +1,5 @@
 <h2 class="title-sections"><%= argument.last["title"] %></h2>
-<p class="marged-bottom"><span class="background-text"><%= argument.last["highlighted_text"] %></span><%= argument.last["last_part_text"] %></p>
+<p class="marged-bottom"><span class="background-text"><%= argument.last["highlighted_text"] %></span> <%= argument.last["last_part_text"] %></p>
 <div class="border-images">
 	<% if argument.last["link"] %>
 		<%= link_to image_tag("#{argument.last["img"]}", class: "fit-in-div"), "#{argument.last["link"]}", target: "_blank" %>
