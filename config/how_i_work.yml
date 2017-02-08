@@ -1,7 +1,7 @@
 rails_fan:
-  title: Because I am a rails fan...
+  title: Because I am a Rails fan...
   highlighted_text: ...and it is not by default.
-  last_part_text: By doing Le Wagon, I learned web development with rails. I felt in love with this framework and its beauty. I am a big fan of the rails doctrine and I am looking forward to improving my skills and discovering the future of rails!
+  last_part_text: By doing Le Wagon, I learned web development with Ruby on Rails. I felt in love with this framework and its beauty. I am a big fan of the Rails doctrine and I am looking forward to improving my skills and discovering the future of Rails!
   img: rails-doctrine.png
   link: https://github.com/damienlethiec/
 
