@@ -10,7 +10,7 @@
 	  color: white;
 	  font-weight: bold;
 	  font-size: 16px;
-    cursor: auto;
+    cursor: pointer;
 		&:hover {
 			color: #283c46;
 		}
@@ -18,10 +18,12 @@
 	.nav-link:first-child {
 		position: absolute;
 		left: 30px;
+		top: 15px;
 	}
 	.nav-link:last-child {
 		position: absolute;
 		right: 20px;
+		top: 15px;
 	}
   .global-nav-tagline {
   	text-align: center;

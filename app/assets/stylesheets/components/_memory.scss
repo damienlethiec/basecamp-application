@@ -32,6 +32,10 @@
 
 		&.picked, &.matched {
 			transform: rotateY(180deg);
+			// .back {
+			// 	transition: .4s ease-in-out;
+			// 	display: none;
+			// }
 		}
 		&.matched {
 			animation: 1s matchAnim ease-in-out;

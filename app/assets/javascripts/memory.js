@@ -36,6 +36,7 @@ $(document).ready(function() {
 				var $card = $(this);
 				if(!_.paused && !$card.find(".inside").hasClass("matched") && !$card.find(".inside").hasClass("picked")){
 					$card.find(".inside").addClass("picked");
+					$card.find(".back img").hide();
 					if(!_.guess){
 						_.guess = $(this).attr("data-id");
 					} else if(_.guess == $(this).attr("data-id") && !$(this).hasClass("picked")){
@@ -45,6 +46,7 @@ $(document).ready(function() {
 						_.guess = null;
 						_.paused = true;
 						setTimeout(function(){
+							$(".picked").find(".back img").show();
 							$(".picked").removeClass("picked");
 							Memory.paused = false;
 						}, 600);
