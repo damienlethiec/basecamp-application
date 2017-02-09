@@ -1,14 +1,14 @@
 rails_fan:
   title: Because I am a Rails fan...
   highlighted_text: ...and it is not by default.
-  last_part_text: By doing Le Wagon, I learned web development with Ruby on Rails. I felt in love with this framework and its beauty. I am a big fan of the Rails doctrine and I am looking forward to improving my skills and discovering the future of Rails!
+  last_part_text: By doing Le Wagon, I learned web development with Ruby on Rails. I fell in love with this framework and its beauty. I am a big fan of the Rails doctrine and I am looking forward to improving my skills and discovering the future of Rails!
   img: rails-doctrine.png
   link: https://github.com/damienlethiec/
 
 fast_learner:
   title: Because I learn fast...
   highlighted_text: ...and help others learn.
-  last_part_text: 6 months ago, I had no idea how to write a single line of code. I now work as a freelance web developer and as a bootcamp teacher. I still know nothing but I can see how fast I learn. And by teaching at Le Wagon, I help other learn too. And I think I help them well!
+  last_part_text: 6 months ago, I had no idea how to write a single line of code. I now work as a freelance web developer and as a bootcamp teacher. I still know nothing but I can see how fast I learn. And by teaching at Le Wagon, I help others learn too. And I think I help them well!
   img: reviews-ta.png
   link: 
 
@@ -22,7 +22,7 @@ product_oriented:
 remote:
   title: Because I know how to work remotely...
   highlighted_text: ...and I love it!
-  last_part_text: I have always loved to travel. I lived 6 months in Tanzania, volunteered in Nicaragua and hitchhiked all over France. This past Novembre, I decided to become a digital nomad. I went to Thaïland for 2 months, working for a client in France. I loved it. Since them, I only take remote missions and know how to make it work!
+  last_part_text: I have always loved to travel. I lived 6 months in Tanzania, volunteered in Nicaragua and hitchhiked all over France. This past November, I decided to become a digital nomad. I went to Thaïland for 2 months, working for a client in France. I loved it. Since then, I only take remote missions and know how to make it work!
   img: kohub.jpg
   link: 
 
