@@ -41,6 +41,7 @@ $(document).ready(function() {
 						_.guess = $(this).attr("data-id");
 					} else if(_.guess == $(this).attr("data-id") && !$(this).hasClass("picked")){
 						$(".picked").addClass("matched");
+						$(".picked").removeClass("picked");
 						_.guess = null;
 					} else {
 						_.guess = null;
